@@ -16,7 +16,7 @@ const Navbar = ({ click }) => {
 
       <ul className="navbar__links">
         <li>
-          <Link to = "/" className="navbar__logo">Planetside</Link> 
+          <Link to = "/" className="navbar__logo"><h2>Planetside</h2></Link> 
         </li>
 
         <li>

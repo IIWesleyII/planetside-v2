@@ -7,7 +7,7 @@
     "server": "nodemon backend/server.js",
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "data:import": "node backend/seederScript"
+    "data:import": "node backend/seederScript.js"
   },
   "keywords": [],
   "author": "",
@@ -20,14 +20,5 @@
   "devDependencies": {
     "concurrently": "^5.3.0",
     "nodemon": "^2.0.12"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IIWesleyII/mini-mern-ecommerce-project.git"
-  },
-  "bugs": {
-    "url": "https://github.com/IIWesleyII/mini-mern-ecommerce-project/issues"
-  },
-  "homepage": "https://github.com/IIWesleyII/mini-mern-ecommerce-project#readme",
-  "description": ""
+  }
 }

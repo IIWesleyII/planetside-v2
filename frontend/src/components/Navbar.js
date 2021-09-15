@@ -16,7 +16,7 @@ const Navbar = ({ click }) => {
 
       <ul className="navbar__links">
         <li>
-          <Link to = "/" className="navbar__logo"><h2>Planetside</h2></Link> 
+          <Link to = "/" className="navbar__logo"><h2>ഗ്രഹങ്ങൾ</h2></Link> 
         </li>
 
         <li>
@@ -24,12 +24,9 @@ const Navbar = ({ click }) => {
           <Link to="/cart" className="cart__link">
             <i className="fas fa-shopping-cart"></i>
             <span>
-              Cart <span className="cartlogo__badge">{getCartCount()}</span>
+            കാർട്ട് <span className="cartlogo__badge">{getCartCount()}</span>
             </span>
           </Link>
-        </li>
-        <li>
-          <Link to="/">Shop</Link>
         </li>
       </ul>
 

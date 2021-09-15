@@ -3,3 +3,5 @@
 - npm run dev
 ### To populate db with values
 - npm run data:import
+### foreign language used
+- Malayalam

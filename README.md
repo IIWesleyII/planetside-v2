@@ -9,7 +9,6 @@ An e-commerce website to buy planets.
 - npm run data:import
 ### foreign language used
 - Malayalam
-=======
 ```
 npm run data:import
 ```

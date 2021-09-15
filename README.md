@@ -1,4 +1,6 @@
-# ps
+# planetside
+An e-commerce website to buy planets.
+
 ### To run application in console.
 ```
  npm run dev

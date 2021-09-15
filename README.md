@@ -1,6 +1,6 @@
-# planetside
-An e-commerce website to buy planets.
-
+## planetside
+### An e-commerce website to buy planets.
+![img](https://github.com/IIWesleyII/planetside-v2/blob/main/img.PNG)
 ### To run application in console.
 ```
  npm run dev

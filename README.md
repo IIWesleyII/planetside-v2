@@ -10,7 +10,7 @@
  npm run dev
 ```
 
-### To populate db with values
+### To populate DB with values
 
 ```
 npm run data:import
